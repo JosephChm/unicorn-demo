@@ -15,4 +15,6 @@ spring:
         format_sql: true
     show-sql: true
   cache:
-    type: simple
+    type: ehcache
+    ehcache:
+      config: classpath:ehcache.xml
