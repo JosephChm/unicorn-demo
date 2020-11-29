@@ -1,6 +1,6 @@
 package com.unicorn.demo.service.impl;
 
-import com.unicorn.demo.entity.User;
+import com.unicorn.demo.domain.User;
 import com.unicorn.demo.service.UserService;
 import org.springframework.cache.annotation.CacheConfig;
 import org.springframework.cache.annotation.CacheEvict;

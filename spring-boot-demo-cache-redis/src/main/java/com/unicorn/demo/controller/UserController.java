@@ -1,6 +1,6 @@
 package com.unicorn.demo.controller;
 
-import com.unicorn.demo.entity.User;
+import com.unicorn.demo.domain.User;
 import com.unicorn.demo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

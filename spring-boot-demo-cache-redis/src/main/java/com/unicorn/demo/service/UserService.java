@@ -1,6 +1,6 @@
 package com.unicorn.demo.service;
 
-import com.unicorn.demo.entity.User;
+import com.unicorn.demo.domain.User;
 
 public interface UserService {
 

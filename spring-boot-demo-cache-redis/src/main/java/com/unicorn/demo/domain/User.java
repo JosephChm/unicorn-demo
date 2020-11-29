@@ -1,4 +1,4 @@
-package com.unicorn.demo.entity;
+package com.unicorn.demo.domain;
 
 import java.io.Serializable;
 
